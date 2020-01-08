@@ -43,7 +43,9 @@ public class Controller implements Runnable{
 
 	public synchronized void run() {
 		
-		callLoginFrame();
+		this.callLoginFrame();
+
+
 		
 		/*loginFrame loginFrame = new loginFrame();
 		loginFrame.run();
@@ -68,16 +70,6 @@ public class Controller implements Runnable{
 		//run 과 객체를 공유하므로 synchronize 해야함
 		//이를 하지 않는다면 illegalMonitorStateException 발생
 		loginFrame loginFrame = new loginFrame();
-		Thread th = new Thread(loginFrame);
-		th.start();
-		try {
-			th.join();
-		}
-		catch(InterruptedException e) {
-			e.printStackTrace();
-		}
-		
-		
-		this.setId(loginFrame.getId());
+
 	}
 }
