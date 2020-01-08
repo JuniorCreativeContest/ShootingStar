@@ -2,7 +2,6 @@ package app;
 import login.loginFrame;
 import app.MainFrame;
 
-
 public class Controller implements Runnable{
 	
 	//private variables
