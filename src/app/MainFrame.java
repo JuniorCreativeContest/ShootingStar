@@ -8,4 +8,10 @@ public class MainFrame {
     private JButton pullButton;
     private JTree files;
     private JTextField textField1;
+    private JScrollBar scrollBar1;
+
+
+    public MainFrame() {
+        files = new JTree();
+    }
 }
