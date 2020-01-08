@@ -62,6 +62,8 @@ public class loginFrame extends JFrame implements Runnable {
 
     @Override
     public void run() {
+        loginFrame loginframe = new loginFrame();
+        loginframe.setVisible(true);
 
     }
 }

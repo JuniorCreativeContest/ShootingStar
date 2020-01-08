@@ -70,6 +70,7 @@ public class Controller implements Runnable{
 		//run 과 객체를 공유하므로 synchronize 해야함
 		//이를 하지 않는다면 illegalMonitorStateException 발생
 		loginFrame loginFrame = new loginFrame();
+		loginFrame.run();
 
 	}
 }
