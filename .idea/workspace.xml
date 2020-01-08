@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W77MsVQ5KotxXTVyQccWaSfhWF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,8 +27,34 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jys01\ShootingStar\apacheCommomCompress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jys01\ShootingStar\src" />
+      <recent name="C:\Users\jys01\ShootingStar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="ShootingStar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test.Main" />
       <module name="ShootingStar" />
@@ -35,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -61,11 +91,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578488734008</updated>
-      <workItem from="1578488738095" duration="257000" />
+      <workItem from="1578488738095" duration="903000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Project_Structure" timestamp="1578489076449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578489076449" />
+    <state x="249" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578489506747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578489506747" />
+    <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1578489836570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578489836570" />
+    <state width="914" height="265" key="GridCell.Tab.0.bottom" timestamp="1578489649718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578489649718" />
+    <state width="914" height="265" key="GridCell.Tab.0.center" timestamp="1578489649718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578489649718" />
+    <state width="914" height="265" key="GridCell.Tab.0.left" timestamp="1578489649718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578489649718" />
+    <state width="914" height="265" key="GridCell.Tab.0.right" timestamp="1578489649718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578489649718" />
+    <state x="0" y="98" key="SettingsEditor" timestamp="1578489527522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578489527522" />
   </component>
 </project>
