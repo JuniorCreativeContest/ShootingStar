@@ -1,6 +1,8 @@
 package app;
 
 import javax.swing.*;
+import javax.swing.tree.TreePath;
+import java.util.StringTokenizer;
 
 public class MainFrame {
     private JPanel panel1;
@@ -13,5 +15,11 @@ public class MainFrame {
 
     public MainFrame() {
         files = new JTree();
+        TreePath tp = files.getSelectionPath();
+        StringTokenizer token = new StringTokenizer(tp.toString(), "[,]");
+        token.nextToken();
+        if(token.hasMoreTokens()){
+            String filepath = token.nextToken().trim();
+        }
     }
 }
