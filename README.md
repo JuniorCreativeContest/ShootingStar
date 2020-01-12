@@ -8,6 +8,6 @@
 ### 2020-01-08
 정유성 - 기존 작업 
 ### 2020-01-12
-정유성 - loginFrame 재 업로드 -> 정유성/Test3
+정유성 - loginFrame 재 업로드 -> 정유성/Test3  
 정유성 - DB연결, loginValid() 메소드 구현
 
